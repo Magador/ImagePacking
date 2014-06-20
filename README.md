@@ -28,6 +28,6 @@ The background color of the images to be processed. It also is used to set the b
 
 For example we need to create textures from the images contained in the folder [images/phone](https://github.com/Magador/ImagePacking/tree/master/images/phone), in 2048x textures using a transparent background color. We want to name the .json and images prefixes as 'mobile'; so we use:
 
-`ImagePacking.php images/phone png 2048 mobile`
+`php ImagePacking.php images/phone png 2048 mobile`
 
 It give us one mobile.json file and some .png and .dds files.
