@@ -1,0 +1,5 @@
+- Requirements plugin imagick in PHP for converting DDS files
+    - ImageMagick v. 6.8.6-10 Q16 32 bit [ImageMagick-6.8.6-10-Q16-x86-dll](http://ftp.sunet.se/pub/multimedia/graphics/ImageMagick/binaries/)
+    - PHP v. 5.4.16 (Warning: PHP v.5.4.12 does not work with php_imagick)
+    - PHP Plugin v. 3.1.2 Thread Safe 32 bit [php_imagick-3.1.2-5.4-ts-vc9-x86](http://pecl.php.net/package/imagick/3.1.2/windows)
+    - Tested on WampServer v. 2.4 32 bit [Wampserver2.4-x86](http://www.wampserver.com/)
